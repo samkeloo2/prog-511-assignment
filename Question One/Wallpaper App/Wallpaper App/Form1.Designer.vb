@@ -185,6 +185,6 @@ Partial Class Form1
     Friend WithEvents cmbRollCoverage As ComboBox
     Friend WithEvents txtSingle As TextBox
     Friend WithEvents btnCalculate As Button
-    Friend WithEvents btnExit As Button
+    Friend WithEvents btnE[xit As Button
     Friend WithEvents btnVerify As Button
 End Class
